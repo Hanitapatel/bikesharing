@@ -5,7 +5,7 @@
  idea to invest in this program or not.
  
  ## Results
- link
+ ![Text to Column](https://github.com/Hanitapatel/bikesharing/blob/main/Resources/NYC%20Citybike%20analysis%20outcome%20story.png)
  The image above providing visualizations for  
   - Checkout Times of bikes for Users.  
       - 146,752 bikes were checked out for 5 minutes of tripduration.
@@ -21,7 +21,7 @@
       - Again there are more male rideds than female and unknown riders      
   - User Trips by Gender by Weekday
       - During the week more trips taken by sbuscribers then customers
-      link
+![Text to Column](https://github.com/Hanitapatel/bikesharing/blob/main/Resources/NYC%20Citybike%20analysis%20outcome%20Module.png)
       
     Image above providing visualization for august
     - Number of Trips in August
